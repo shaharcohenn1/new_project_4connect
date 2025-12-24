@@ -1,0 +1,9 @@
+{
+    "name": "connect4-new-server",
+    "version": "1.0.0",
+    "main": "serverApp.js",
+    "type": "commonjs",
+    "dependencies": {
+        "mysql2": "^3.9.0"
+    }
+}
